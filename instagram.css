@@ -1,0 +1,44 @@
+.header {
+  width: 100%;
+  height: 77px;
+  background-color:blue;
+}
+.main {
+  margin: auto;
+  width: 935px;
+
+  background-color: lightgreen;
+}
+.user {
+  display: flex;
+  height: 150px;
+  width: 935;
+  background-color: pink
+}
+.avatar {
+  height: 150px;
+  width: 291px;
+  background-color: purple;
+}
+.description {
+  height: 150px;
+  width: 644px;
+  background-color: orange;
+}
+.photos {
+  width: 935px;
+  background-color: #42f480;
+
+}
+.line {
+  width: 935px;
+  background-color: #29d5d8;
+  display: flex;
+  justify-content: space-between;
+}
+.picture {
+  width: 293px;
+  height: 293px;
+  background-color: #5019d1;
+  margin: 5px;
+}
